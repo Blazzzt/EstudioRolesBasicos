@@ -15,6 +15,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 8. Salas Zegarra, Marco Antonio - msalasze@unsa.edu.pe - Desarrollador QA
 9. Valdivia Flores Manuel Djins - mvaldiviaf@unsa.edu.pe - Desarrollador Backend
 10. Cruz Kana Pamela Greis - pcruzk@unsa.edu.pe - Desarrollador Android
+11. Choquecota Pandia Mario Miguel - mchoquecota@unsa.edu.pe - Desarrollador QA
 12. Velo Poma Yamira Yesica - yvelo@unsa.edu.pe - Desarrollador Frontend
 
 ## 1) Conceptos Generales para tener en cuenta
