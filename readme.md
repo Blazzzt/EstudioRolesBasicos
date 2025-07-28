@@ -14,7 +14,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 7. Quispe Balcon Martha Beatriz - mquispebal@unsa.edu.pe
 8. Valdivia Flores Manuel Djins - mvaldiviaf@unsa.edu.pe - Desarrollador Backend
 9. Cruz Kana Pamela Greis - pcruzk@unsa.edu.pe 
-12. 
+10. Choquecota Pandia Mario Miguel - mchoquecota@unsa.edu.pe
 
 ## 1) Conceptos Generales para tener en cuenta
 Cuando desarrollamos aplicaciones, ya sea para web o dispositivos móviles, usamos distintas herramientas que nos ayudan a trabajar más rápido y con mejor estructura. Entre estas herramientas están las librerías, los frameworks y los patrones de diseño, y aunque a veces se confunden, en realidad son cosas distintas.
@@ -423,55 +423,6 @@ Los profesionales de QA utilizan herramientas como Selenium, Cypress o Playwrigh
 ## Impacto en el Negocio
 Un QA efectivo previene que bugs críticos lleguen a producción, lo que evita costos de corrección post-lanzamiento, protege la reputación de la empresa y mejora la experiencia del usuario. Su trabajo contribuye directamente a la confiabilidad del producto y la satisfacción del cliente.
 El rol de QA es esencial en cualquier equipo de desarrollo serio, actuando como una barrera de calidad que asegura que solo el software que cumple con los estándares establecidos llegue a los usuarios finales.
-## Habilidades Esenciales para un Profesional de QA
-# Habilidades Técnicas
-**Testing Manual y Automatizado:** 
-Dominio de técnicas de pruebas manuales exploratorias y capacidad para crear y mantener scripts de automatización usando herramientas como Selenium, Cypress, Playwright o TestComplete.
-**Conocimientos de Programación:** 
-Familiaridad con lenguajes como Python, Java, JavaScript o C# para escribir scripts de automatización, entender el código fuente y colaborar efectivamente con desarrolladores.
-**Bases de Datos:** 
-Habilidades en SQL para validar datos, ejecutar consultas de verificación y entender cómo la aplicación interactúa con las bases de datos.
-**APIs y Servicios Web:**
-Experiencia con herramientas como Postman, REST Assured o SoapUI para probar interfaces de programación y validar la comunicación entre sistemas.
-**Herramientas de Gestión:** 
-Manejo de plataformas como JIRA, Azure DevOps, TestRail o Zephyr para documentar casos de prueba, reportar defectos y hacer seguimiento del progreso.
-# Habilidades Analíticas
-**Pensamiento Crítico:** 
-Capacidad para analizar requisitos, identificar posibles escenarios de falla y diseñar casos de prueba que cubran edge cases y situaciones complejas.
-**Resolución de Problemas:** 
-Habilidad para investigar la causa raíz de los defectos, reproducir issues de manera consistente y proponer soluciones efectivas.
-**Atención al Detalle:** 
-Minuciosidad para detectar inconsistencias sutiles, errores de usabilidad y problemas que otros podrían pasar por alto.
-# Habilidades de Comunicación
-**Documentación Clara:** 
-Capacidad para escribir reportes de defectos detallados, casos de prueba comprensibles y documentación técnica que otros miembros del equipo puedan seguir fácilmente.
-**Comunicación Interpersonal:** 
-Habilidades para explicar problemas técnicos a audiencias no técnicas, facilitar discusiones sobre calidad y mantener relaciones constructivas con desarrolladores y stakeholders.
-**Presentación:** 
-Capacidad para comunicar métricas de calidad, resultados de pruebas y recomendaciones a gerencia y equipos de producto.
-Conocimientos de Dominio
-**Experiencia de Usuario (UX):** 
-Comprensión de principios de usabilidad para evaluar si la aplicación es intuitiva y cumple con las expectativas del usuario final.
-Metodologías Ágiles: 
-Familiaridad con Scrum, Kanban y prácticas de desarrollo ágil para integrarse efectivamente en equipos modernos de desarrollo.
-**Comprensión del Negocio:** 
-Conocimiento del dominio de la aplicación y los objetivos comerciales para priorizar pruebas y enfocar esfuerzos en áreas críticas.
-Habilidades Blandas
-**Adaptabilidad:**
-Flexibilidad para trabajar con diferentes tecnologías, metodologías y equipos, adaptándose rápidamente a cambios en requisitos o prioridades.
-**Gestión del Tiempo:** 
-Habilidad para priorizar tareas, manejar múltiples proyectos simultáneamente y cumplir con deadlines ajustados.
-Mentalidad de Mejora Continua: Disposición para aprender nuevas tecnologías, optimizar procesos de testing y mantenerse actualizado con las mejores prácticas de la industria.
-**Paciencia y Persistencia:** 
-Capacidad para realizar pruebas repetitivas, investigar problemas complejos y mantener la calidad bajo presión.
-Conocimientos Especializados
-**Seguridad:**
-Comprensión básica de vulnerabilidades comunes (OWASP Top 10) y técnicas de testing de seguridad para identificar posibles brechas.
-**Performance Testing:**
-Experiencia con herramientas como JMeter, LoadRunner o K6 para evaluar el rendimiento de aplicaciones bajo diferentes cargas de trabajo.
-**Testing Móvil:** 
-Conocimiento de particularidades del testing en dispositivos móviles, incluyendo testing en diferentes sistemas operativos, resoluciones y condiciones de red.
-Un QA exitoso combina estas habilidades técnicas con soft skills sólidas, manteniéndose siempre actualizado en un campo que evoluciona constantemente con nuevas tecnologías y metodologías.
 ## 9) Links recomendados para capacitación Rol QA
 
 ## 10) Desarrollador Android
