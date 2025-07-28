@@ -13,7 +13,8 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 6. Mendoza Taco David Jose Luis  - dmendozat@unsa.edu.pe - Desarrollador Backend
 7. Quispe Balcon Martha Beatriz - mquispebal@unsa.edu.pe
 8. Valdivia Flores Manuel Djins - mvaldiviaf@unsa.edu.pe - Desarrollador Backend
-9. Cruz Kana Pamela Greis - pcruzk@unsa.edu.pe 
+9. Cruz Kana Pamela Greis - pcruzk@unsa.edu.pe
+10. Choquecota Pandia Mario Miguel - mchoquecota@unsa.edu.pe
 12. 
 
 ## 1) Conceptos Generales para tener en cuenta
@@ -471,9 +472,9 @@ Un QA efectivo previene que bugs críticos lleguen a producción, lo que evita c
 El rol de QA es esencial en cualquier equipo de desarrollo serio, actuando como una barrera de calidad que asegura que solo el software que cumple con los estándares establecidos llegue a los usuarios finales.
 ## Habilidades Esenciales para un Profesional de QA
 # Habilidades Técnicas
-**Testing Manual y Automatizado:**  
+**Testing Manual y Automatizado:** 
 Dominio de técnicas de pruebas manuales exploratorias y capacidad para crear y mantener scripts de automatización usando herramientas como Selenium, Cypress, Playwright o TestComplete.
-**Conocimientos de Programación:**  
+**Conocimientos de Programación:** 
 Familiaridad con lenguajes como Python, Java, JavaScript o C# para escribir scripts de automatización, entender el código fuente y colaborar efectivamente con desarrolladores.
 **Bases de Datos:** 
 Habilidades en SQL para validar datos, ejecutar consultas de verificación y entender cómo la aplicación interactúa con las bases de datos.
@@ -488,7 +489,6 @@ Capacidad para analizar requisitos, identificar posibles escenarios de falla y d
 Habilidad para investigar la causa raíz de los defectos, reproducir issues de manera consistente y proponer soluciones efectivas.
 **Atención al Detalle:** 
 Minuciosidad para detectar inconsistencias sutiles, errores de usabilidad y problemas que otros podrían pasar por alto.
-
 # Habilidades de Comunicación
 **Documentación Clara:** 
 Capacidad para escribir reportes de defectos detallados, casos de prueba comprensibles y documentación técnica que otros miembros del equipo puedan seguir fácilmente.
@@ -499,7 +499,7 @@ Capacidad para comunicar métricas de calidad, resultados de pruebas y recomenda
 Conocimientos de Dominio
 **Experiencia de Usuario (UX):** 
 Comprensión de principios de usabilidad para evaluar si la aplicación es intuitiva y cumple con las expectativas del usuario final.
-**Metodologías Ágiles:** 
+Metodologías Ágiles: 
 Familiaridad con Scrum, Kanban y prácticas de desarrollo ágil para integrarse efectivamente en equipos modernos de desarrollo.
 **Comprensión del Negocio:** 
 Conocimiento del dominio de la aplicación y los objetivos comerciales para priorizar pruebas y enfocar esfuerzos en áreas críticas.
@@ -508,8 +508,7 @@ Habilidades Blandas
 Flexibilidad para trabajar con diferentes tecnologías, metodologías y equipos, adaptándose rápidamente a cambios en requisitos o prioridades.
 **Gestión del Tiempo:** 
 Habilidad para priorizar tareas, manejar múltiples proyectos simultáneamente y cumplir con deadlines ajustados.
-**Mentalidad de Mejora Continua:**
-Disposición para aprender nuevas tecnologías, optimizar procesos de testing y mantenerse actualizado con las mejores prácticas de la industria.
+Mentalidad de Mejora Continua: Disposición para aprender nuevas tecnologías, optimizar procesos de testing y mantenerse actualizado con las mejores prácticas de la industria.
 **Paciencia y Persistencia:** 
 Capacidad para realizar pruebas repetitivas, investigar problemas complejos y mantener la calidad bajo presión.
 Conocimientos Especializados
@@ -801,30 +800,3 @@ flowchart LR
   Diagramas técnicos, arquitectura, flujos de trabajo.  
 
 **Nota**: GitHub soporta ambos, pero verifica si tu plataforma (como Slack o GitLab) también renderiza Mermaid.
-
-MERMAID DEL PROYECTO:
----
-config:
-  layout: dagre
----
-flowchart TD
-    A["Programación"] --> B["Frontend"] & C["Backend"] & D["Android"] & E["Quality & A"]
-    B --> F["CSS"] & G["HTML"] & n2["Java Script"]
-    C --> n1["Rutas"] & n8["Controladores"] & n13["Base de Datos"]
-    D --> n3["Curso Kotlin Platzi"] & n4["Microsoft Learn"]
-    E --> n5["Untitled Node"]
-    click A "https://developer.mozilla.org/es/docs/Web/HTML"
-    click B "https://www.canva.com/design/DAGtMQ3AYMQ/pLPHPvi2M1KuNY3SXel7Xw/edit?utm_content=DAGtMQ3AYMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-    click C "https://gamma.app/docs/Backend-en-Programacion-Web-El-Motor-Oculto-45ylg348bflrq98"
-    click D "https://developer.mozilla.org/es/docs/Web/JavaScript"
-    click E "https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML"
-    click F "https://developer.mozilla.org/es/docs/Learn/CSS/First_steps"
-    click G "https://www.w3schools.com/html/default.asp"
-    click n2 "https://developer.mozilla.org/es/docs/Web/JavaScript"
-    click n1 "🔗 https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/routes"
-    click n8 "https://platzi.com/cursos/nodejs-mongo-websockets/conceptualmente-rutas-controladores-y-bases-de-dat/"
-    click n13 "https://www.programando.org/blog/2022/03/06/el-camino-del-backend-developer-bases-de-datos/"
-    click n3 "https://platzi.com/cursos/kotlin/"
-    click n4 "https://learn.microsoft.com/en-us/training/"
-    click n5 "https://example.com/"
-
